@@ -9,11 +9,6 @@ Gameplay Steps:
 The game starts with a random choice of which player goes first.
 Players alternate turns, choosing positions on the grid (1-9) to place their marker. Positions correspond to:
 
- 7 | 8 | 9
----|---|---
- 4 | 5 | 6
----|---|---
- 1 | 2 | 3
 The board updates after each turn, displaying the current state.
 Winning the Game:
 A player wins if they form a horizontal, vertical, or diagonal line of their markers.
